@@ -6,3 +6,5 @@ This is a simple game, in theory, this is a game that can go on endlessly (if yo
 - Don't get hit by rocks or enemy jet, it will hurt you (1 life). <br />
 - The red heart will heal you. <br />
 
+
+<img src="https://github.com/LeoRain-S/AirFight_Game/blob/main/hover_image.png" width="250">
